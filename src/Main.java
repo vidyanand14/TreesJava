@@ -11,7 +11,7 @@ public class Main {
         tree.insert(1);
         tree.insert(3);
         tree.insert(9);
-        System.out.println(tree.find(8));
+        System.out.println("done");
 
         }
 }

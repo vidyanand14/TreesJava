@@ -42,7 +42,7 @@ public class Tree {
 
     }
 
-    public boolean find(int value) {
+   /* public boolean find(int value) { ignore git testing
         var current = root;
         while (current != null) {
             if (value < current.value)
@@ -56,4 +56,6 @@ public class Tree {
         return false;
 
     }
+
+    */
 }
