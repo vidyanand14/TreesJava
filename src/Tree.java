@@ -79,7 +79,7 @@ public class Tree {
 
     private void traverseInOrder(Node root){
         if (root == null)
-           return;
+           return; 
 
         traverseInOrder(root.leftChild);
         System.out.println(root.value);
